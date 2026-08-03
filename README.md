@@ -16,20 +16,22 @@ Here are some ideas to get you started:
 -->
 # Hi there, it's Batz 💅
 
-🎓 Software Engineering graduate from the University of Bahrain. Passionate about full-stack development, software testing, databases, and data analytics.
+🎓 Software Engineering graduate from the University of Bahrain.
+Passionate about building reliable software with interests in full-stack web development, software testing & quality assurance, databases, and data analytics.
 
 ## 🚀 Currently Working On
-• Expanding my portfolio • Full-stack web apps • Laravel & Angular • SQL • Power BI dashboards
+• Expanding my software engineering portfolio • Full-stack web applications • Software testing & QA • Power BI dashboards
 
 ## 🛠 Tech Stack
-**Languages:** Java • PHP • SQL • TypeScript • HTML • CSS  
-**Frameworks:** Laravel • Angular • Oracle APEX • Power BI  
-**Tools:** Git • GitHub • VS Code • Eclipse • JUnit • Randoop • MySQL
+**Languages:** Java • PHP • SQL • TypeScript • Python • HTML • CSS  
+**Frameworks & Technologies:** Laravel • Angular • Django • Oracle APEX • MySQL • Power BI  
+**Testing:** JUnit • Randoop • Test Case Design • Regression Testing  
+**Tools:** Git • GitHub • VS Code
 
 ## 📌 Featured Projects
-🤖 AI-Powered Student Course Scheduler • 📊 Bahrain Road Accidents Dashboard • 📚 Library Management System • 🌐 Full-Stack Web Applications
+🤖 AI-Powered Student Course Scheduler • 📊 Bahrain Road Accidents Dashboard • ✈️ Airline Upgrade Optimisation System • ✅ Software Testing & QA Projects
 
 ## 🌱 Currently Learning
-Software Architecture • Clean Code • System Design • Advanced SQL
+Software Architecture • System Design • Clean Code • Advanced SQL
 
 Thanks for visiting my profile!
