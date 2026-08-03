@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, it's Batz 💅
+# Hi there, it's Batz 💅🫦
 
 🎓 Software Engineering graduate from the University of Bahrain.
 Passionate about building reliable software with interests in full-stack web development, software testing & quality assurance, databases, and data analytics.
@@ -34,4 +34,4 @@ Passionate about building reliable software with interests in full-stack web dev
 ## 🌱 Currently Learning
 Software Architecture • System Design • Clean Code • Advanced SQL
 
-Thanks for visiting my profile!
+_Thanks for visiting my profile!_
