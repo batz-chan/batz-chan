@@ -14,23 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 # Hi there, it's Batz 💅
 
-🎓 Software Engineering graduate from the University of Bahrain.<br>
-Passionate about full-stack development, software testing, databases, and data analytics.
+🎓 Software Engineering graduate from the University of Bahrain. Passionate about full-stack development, software testing, databases, and data analytics.
 
-### 🚀 Currently Working On
-Portfolio • Laravel • Angular • SQL • Power BI
+## 🚀 Currently Working On
+• Expanding my portfolio • Full-stack web apps • Laravel & Angular • SQL • Power BI dashboards
 
-### 🛠 Tech Stack
-**Languages:** Java • PHP • SQL • TypeScript • HTML • CSS<br>
-**Frameworks:** Laravel • Angular • Oracle APEX • Power BI<br>
+## 🛠 Tech Stack
+**Languages:** Java • PHP • SQL • TypeScript • HTML • CSS  
+**Frameworks:** Laravel • Angular • Oracle APEX • Power BI  
 **Tools:** Git • GitHub • VS Code • Eclipse • JUnit • Randoop • MySQL
 
-### 📌 Projects
-🤖 AI-Powered Student Course Scheduler • 📊 Bahrain Road Accidents Dashboard • 📚 Library Management System
+## 📌 Featured Projects
+🤖 AI-Powered Student Course Scheduler • 📊 Bahrain Road Accidents Dashboard • 📚 Library Management System • 🌐 Full-Stack Web Applications
 
-### 🌱 Learning
+## 🌱 Currently Learning
 Software Architecture • Clean Code • System Design • Advanced SQL
+
+Thanks for visiting my profile!
