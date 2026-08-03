@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+🎓 Software Engineering graduate from the University of Bahrain.
+I'm passionate about building reliable software, solving real-world problems, and continuously learning new technologies. My interests include full-stack web development, software testing, database systems, and data analytics.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
